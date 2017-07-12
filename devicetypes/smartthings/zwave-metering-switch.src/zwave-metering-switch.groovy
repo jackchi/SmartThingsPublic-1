@@ -27,6 +27,7 @@ metadata {
 		command "reset"
 
 		fingerprint inClusters: "0x25,0x32"
+		fingerprint mfr:"010F", prod:"0600", model:"0001", deviceJoinName: "Fibaro Wall Plug"
 		fingerprint mfr:"0086", prod:"0003", model:"0012", deviceJoinName: "Aeon Labs Micro Smart Switch"
 	}
 
